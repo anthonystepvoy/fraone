@@ -1,4 +1,4 @@
-
+![image](https://github.com/anthonystepvoy/fraone/assets/127255985/8c81064f-50a3-49eb-a95c-181a7aa38705)
 Full responsive front-end made by me from scratch.
 
 WebSite Design by: 
@@ -11,10 +11,11 @@ Made a few changes on design and add 3D interactive world.
 
 Technologies:
 
-Next Js
+React
 TypeScript
 Tailwind
 Three Js
+
 
 Made with 💗
 
