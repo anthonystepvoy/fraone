@@ -1,4 +1,3 @@
-![image](https://github.com/anthonystepvoy/fraone/assets/127255985/8c81064f-50a3-49eb-a95c-181a7aa38705)
 Full responsive front-end made by me from scratch.
 
 WebSite Design by: 
@@ -15,6 +14,8 @@ React
 TypeScript
 Tailwind
 Three Js
+
+![image](https://github.com/anthonystepvoy/fraone/assets/127255985/8c81064f-50a3-49eb-a95c-181a7aa38705)
 
 
 Made with 💗
